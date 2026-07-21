@@ -2,10 +2,17 @@
 
 Public catalog documentation for CrossingKey products, services, and release status.
 
-## Purpose
+## Product families
 
-This repository gives buyers and collaborators a plain-language view of what is available, what is in development, and what each release does and does not include.
+| Family | Role |
+| --- | --- |
+| Prompt and operator resources | Structured guides and reusable working materials |
+| Templates and starter systems | Configurable starting points for defined workflows |
+| Reviews and blueprints | Scoped analysis with a stated output |
+| Private builds | Individually scoped services under a separate agreement |
 
-## Publication rule
+## Release policy
 
-Product descriptions must describe actual deliverables. They must not imply guarantees, disclose private fulfillment mechanics, or expose customer-specific implementation details.
+Before listing a product, CrossingKey verifies that the deliverable exists, its format and boundaries are stated, material dependencies are disclosed, and no private data or secrets are packaged. Pricing and availability are confirmed on the official sales surface at purchase time.
+
+A catalog listing is not a promise of custom implementation, outcome, uptime, or compatibility beyond its stated terms.
