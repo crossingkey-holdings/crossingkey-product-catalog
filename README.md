@@ -1,18 +1,43 @@
 # CrossingKey Product Catalog
 
-Public catalog documentation for CrossingKey products, services, and release status.
+**Public commercial catalog for CrossingKey Intelligence.**
 
-## Product families
+This repository explains what CrossingKey can package and deliver without turning internal experiments into fake products. A listed capability is not represented as available until its deliverable and boundaries are clear.
 
-| Family | Role |
-| --- | --- |
-| Prompt and operator resources | Structured guides and reusable working materials |
-| Templates and starter systems | Configurable starting points for defined workflows |
-| Reviews and blueprints | Scoped analysis with a stated output |
-| Private builds | Individually scoped services under a separate agreement |
+## Current service families
 
-## Release policy
+| Service family | Typical outcome | Delivery mode |
+| --- | --- | --- |
+| AI & workflow implementation | A defined automation or AI-enabled workflow implemented, debugged, documented, and handed off | Scoped project |
+| API & integration repair | Broken or incomplete integrations diagnosed and repaired with verification evidence | Repair sprint / scoped project |
+| Commerce & payment implementation | Shopify, Stripe, webhook, checkout, or backend commerce workflow integration | Scoped project |
+| Technical review & documentation | Architecture review, implementation blueprint, verification plan, or operational documentation | Fixed deliverable |
+| External implementation capacity | Defined technical package delivered behind an agency or partner's client relationship | Subcontract / white-label |
 
-Before listing a product, CrossingKey verifies that the deliverable exists, its format and boundaries are stated, material dependencies are disclosed, and no private data or secrets are packaged. Pricing and availability are confirmed on the official sales surface at purchase time.
+## What buyers receive
 
-A catalog listing is not a promise of custom implementation, outcome, uptime, or compatibility beyond its stated terms.
+A paid engagement should define:
+
+- the problem being solved;
+- deliverable and acceptance boundary;
+- dependencies and access requirements;
+- execution status;
+- verification evidence;
+- handoff documentation;
+- exclusions and follow-on options.
+
+## Proof before promise
+
+The canonical professional review repository contains the public evidence used to support capability claims:
+
+https://github.com/crossingkey-holdings/experience
+
+Public catalog entries must not promise uptime, compatibility, revenue, security outcomes, or production behavior that has not been established.
+
+## Commercial path
+
+For a scoped implementation package, repair sprint, agency overflow engagement, or technical review:
+
+**founder@crossingkeyintelligence.com**
+
+Company: https://crossingkeyintelligence.com
